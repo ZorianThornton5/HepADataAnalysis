@@ -1,0 +1,2 @@
+# HepADataAnalysis
+Given a zip file of 31 files from the CDC, I wanted to investigate some data on HepA in order to determine which groups were being hit the hardest. I found that many people of Mexican origin were disproportionately being diagnosed with HepA, which could be prevented if the CDC attempted to educate these communites and offer vaccinations. Code for my conclusion is included in this repo.
